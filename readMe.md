@@ -47,11 +47,6 @@ This application auto generates a local persistence file to store transactional 
 * [3naDoyle GitHub](https://github.com/3naDoyle) 
 
 
-
-
-* This application was developed as a given assignment as part of an job-application process. 
-
-
 ### Acknowledgments
 
 * This application was developed as a given assignment as part of an job-application process. 
